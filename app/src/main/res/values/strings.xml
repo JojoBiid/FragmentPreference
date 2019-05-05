@@ -1,0 +1,25 @@
+<resources>
+    <string name="preference">Fragment Preferences</string>
+    <string name="pref_syncConnectionType">List Preference</string>
+    <string name="pref_syncConnectionType1">Choose one</string>
+    <string name="In_line">In-Line Preference</string>
+    <string name="Dialog_based">Dialog-based Preference</string>
+    <string name="Edit_pref">Edit text preference</string>
+    <string name="Edit_pref1">Enter your favorite animal</string>
+    <string name="Launch_pref">Launch Preference</string>
+    <string name="Screen_pref">Screen Preference</string>
+    <string name="Intent">Intent Preference</string>
+    <string name="Attribute">Preference Attribute</string>
+    <string name="Parent">Parent Checkbox Preference</string>
+    <string name="Child">Child Checkbox Preference</string>
+    <string name="Toggle">Toggle Preference</string>
+    <string name="pre_sum">This is a checkbox</string>
+    <string name="pre_sum1">An example that uses a list dialog</string>
+    <string name="pre_sum2">An example that uses an edit text dialog</string>
+    <string name="pre_sum3">Shows another screen of preference</string>
+    <string name="pre_sum4">Launches an Activity from an intent</string>
+    <string name="pre_sum5">This is visually a parent</string>
+    <string name="pre_sum6">This is visually a child</string>
+    <string name="pre_sum7">Preference that is one the next screen but same hierarchy</string>
+    <string name="app_name">FragmentPreference</string>
+</resources>
